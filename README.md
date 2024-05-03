@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm LeninCrdva</h1>
-<h3 align="center">A passionate full stack developer from Ecuador</h3>
+<h3 align="center">A passionate developer from Ecuador</h3>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=lenincrdva&show_icons=true&locale=en&layout=compact" alt="lenincrdva" /></p>
 
