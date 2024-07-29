@@ -3,9 +3,9 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=lenincrdva&show_icons=true&locale=en&layout=compact" alt="lenincrdva" /></p>
 
-- 🌱 I’m currently learning **Spring Boot, Django**
+- 🌱 I’m currently learning **Java, JavaScript, TypeScript & Angular 18**
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Spring Boot**
 
 - 📫 How to reach me **cordovalenin.44@gmail.com**
 
